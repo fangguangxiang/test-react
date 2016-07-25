@@ -1,1 +1,1 @@
-npm install jsx-loader --save-dev
+npm install jsx-loader --save-devfafafafafa
